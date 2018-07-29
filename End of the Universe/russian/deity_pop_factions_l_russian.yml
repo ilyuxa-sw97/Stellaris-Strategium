@@ -1,0 +1,20 @@
+﻿l_english:
+ ####################################
+ #	Pop factions
+ ####################################
+ # Demand TITLES are run straight from a pop faction with no
+ # assembled event scope, [Owner.GetName] to get country name.
+ # Tooltips, DESCS and events use the usual [Root.Owner.GetName]
+
+
+ ### NEW FACTIONS
+
+ # Descriptors
+ pft_blood_god:2 "Sacrificial Faction"
+ pft_blood_god_desc:4 "Sacrificial Factions wish To save themselves from being sacrificed to their vampiric deity. They see alien life as a perfect substitute for the lifes of their own species\n\n§LSpiritualist Ethos§!"
+ 
+ 
+ # Blood god
+ BLOOD_FOR_THE_BLOOD_GOD:1 "Blood for the Blood God"
+ NO_BLOOD_FOR_THE_BLOOD_GOD:1 "No blood for the Blood God"
+ BLOOD_FOR_THE_BLOOD_GOD_DESC:1 "$civic_deity_blood_god_desc$"

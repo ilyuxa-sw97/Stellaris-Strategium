@@ -1,0 +1,82 @@
+﻿l_english:
+####################################
+ # Diplomacy text
+ ####################################
+ 
+ # Blood God
+ BG_HOSTILE_GREETING_01:0 "Why hello their friend, what brings you to the court of the [Root.GetRulerTitle]. Care for refreshments, How about some... §RBlood§!."
+ BG_HOSTILE_GREETING_02:0 "Now Isn't your species cute, I could just §REAT§! you all up."
+ BG_HOSTILE_GREETING_03:0 "No need to be afraid... friend."
+ BG_HOSTILE_GREETING_04:0 "You know, donating blood is a vary just cause... especially to those who need it."
+ BG_HOSTILE_GREETING_05:0 "Would you hurry this up [From.GetRulerName], I have a sacrifice offering I need to attend."
+ BG_HOSTILE_GREETING_11:0 "Tut Tut Tut. Such a waste, no blood, Just metal, sad really..."
+ BG_HOSTILE_GREETING_12:0 "Do not speak to me, Oil, I seek blood."
+ BG_HOSTILE_GREETING_13:0 "Machines do not have souls, [From.GetSpeciesName]. You are of no use to me."
+ BG_HOSTILE_GREETING_14:0 "What do you want, oil... metal... wires... AGH! such a disappointment..."
+ BG_HOSTILE_GREETING_15:0 "Is this your sacrifice offering? No thanks, really..."
+ BG_HOSTILE_GREETING_21:0 "."
+ BG_HOSTILE_GREETING_22:0 "."
+ BG_HOSTILE_GREETING_23:0 "."
+ BG_HOSTILE_GREETING_24:0 "."
+ BG_HOSTILE_GREETING_25:0 "."
+ BG_DOMINEERING_GREETING_01:0 "You know, you would be and ok sacrifice, but you would be great crusaders..."
+ BG_DOMINEERING_GREETING_02:0 "Have you ever thought about serving the [Root.GetRulerTitle] instead of fighting them..."
+ BG_NEUTRAL_GREETING_01:0 "Greating's [From.GetRulerName], what can the [Root.GetRulerTitle] do for you?."
+ BG_NEUTRAL_GREETING_02:0 "Why hello their friend, what brings you to the court of the [Root.GetRulerTitle]. Care for refreshments, How about some... §RBlood§!."
+ BG_NEUTRAL_GREETING_03:0 "No need to be afraid... friend."
+ BG_NEUTRAL_GREETING_04:0 "Would you hurry this up [From.GetRulerName], I have a sacrifice offering I need to attend."
+ BG_NEUTRAL_GREETING_05:0 "Don't take this the wrong way, but the blood of the [From.GetSpeciesName] is my favourite..."
+ BG_THREATENED_GREETING_01:0 "I'm not sure what your trying to accomplish [From.GetSpeciesSpawnName], some sort of threat? that's cute."
+ BG_THREATENED_GREETING_02:0 "I'm not sure what your trying to accomplish [From.GetSpeciesName], some sort of threat? I am a god [From.GetSpeciesSpawnName], you do not scare me."
+ BG_FRIENDLY_GREETING_01:0 "Ah if it isn't our radiant [From.GetSpeciesNamePluralCompliment], the [Root.GetRulerTitle] great it's friends."
+ BG_FRIENDLY_GREETING_02:0 "Don't take this the wrong way, but the blood of the [From.GetSpeciesName] is my favourite..."
+ BG_FRIENDLY_GREETING_03:0 "The souls of the [From.GetSpeciesName] are quite strong, it would almost be a shame to see one go... almost"
+ BG_FRIENDLY_GREETING_04:0 "No need to be afraid... friend."
+ BG_FRIENDLY_GREETING_05:0 "Why hello [From.GetSpeciesName], you wouldn't happen to know where I could get some... §RBlood§!"
+ BG_WAR_GREETING_01:0 "I AM YOUR GOD NOW."
+ BG_WAR_GREETING_02:0 "Blood for the [Root.GetRulerTitle]."
+ BG_WAR_GREETING_03:0 "I've grown peckish [From.GetSpeciesName], you shall do for now."
+ BG_WAR_GREETING_04:0 "I'll take this as your sacrifice offering."
+ 
+ # Peaceful Deity
+ 
+ # Liberty Crusaders
+ 
+ # Holy Zealots
+ 
+ # Vassal greetings
+ DC_HOSTILE_GREETING_01:0 "The [From.GetSpeciesName] will never be truly free under the reign of [From.GetRulerName]."
+ DC_HOSTILE_GREETING_02:0 "The House of Un-[Root.GetAdj] Activities Committee are onto your agents, [From.GetRulerTitle]."
+ DC_HOSTILE_GREETING_03:0 "How can you call yourselves a true democracy when the [From.GetAdj] people have voted to elect [From.GetRulerName] as [From.GetRulerTitle], who spits in the face of democratic values?"
+ DC_HOSTILE_GREETING_04:0 "If a revolution isn't already underway to topple the hegemony of [From.GetRulerTitle] [From.GetRulerName], it surely will be soon."
+ DC_HOSTILE_GREETING_05:0 "One day the [From.GetSpeciesName] will be uncaged and soar the skies of liberty like majestic [From.GetSpeciesNamePluralCompliment], but not while they are pinioned by a [From.GetSpeciesNameInsult] [From.GetRulerTitle]."
+ DC_HOSTILE_GREETING_06:0 "Though your kind will never learn the meaning of democracy, we will teach you the meaning of war."
+ DC_DOMINEERING_GREETING_01:0 "We can have some patience with lesser tyrants, but not much."
+ DC_DOMINEERING_GREETING_02:0 "As a rule we at least try to understand that which is different but in your case we are willing to make an exception."
+ DC_NEUTRAL_GREETING_01:0 "A free and open society conducts diplomacy freely and openly."
+ DC_NEUTRAL_GREETING_02:0 "The rights of the [From.GetSpeciesAdj] people are of paramount importance to us. The authority of the [From.GetAdj] government is a secondary concern."
+ DC_NEUTRAL_GREETING_03:0 "Your people have a say, [From.GetRulerTitle], but do they have liberty?"
+ DC_NEUTRAL_GREETING_04:0 "If you think you know your people's rights better than they do, [From.GetRulerTitle], you know nothing about rights or people."
+ DC_NEUTRAL_GREETING_05:0 "Our people find your group mind intriguing and would like to know more about your world view. What is your understanding of advanced social concepts like democracy and liberty?"
+ DC_THREATENED_GREETING_01:0 "Your despotic expansionism has not gone unnoticed. We have been drafting a formal diplomatic complaint, but we are trying to be precise in how we word it."
+ DC_THREATENED_GREETING_02:0 "We are different, yes, but we still hope there is a way for both of our empires to coexist peacefully in this galaxy."
+ DC_FRIENDLY_GREETING_01:0 "The [From.GetAdj] people have done themselves a great favor electing a [From.GetRulerTitle] such as you."
+ DC_FRIENDLY_GREETING_02:0 "The winds of freedom are sweeping the galaxy. Our people and yours are fortunate to be among the first to enjoy them."
+ DC_FRIENDLY_GREETING_03:0 "We can see you're not ready to discuss reforms yet, but we appreciate your contribution to regional stability."
+ DC_FRIENDLY_GREETING_04:0 "Though dissent and discourse are a must in any truly democratic society, we recognize the benefits of a more streamlined decision-making process. We admire your efficiency."
+ DC_WAR_GREETING_01:0 "We will give you liberty or give you death. Your choice."
+ DC_WAR_GREETING_02:0 "You may take our lives, but you will never take our smug sense of moral superiority."
+ DC_WAR_GREETING_03:0 "Democracies do not wage war against each other. [From.GetRulerName]'s regime cannot be considered truly democratic."
+ DC_WAR_GREETING_04:0 "The day of our victory will be remembered as the day the [From.GetSpeciesNamePlural]'s chains were broken."
+ DC_WAR_GREETING_05:0 "Prepare for orbital liberation."
+ 
+ FP_HOSTILE_GREETING_01:0 "There can be no negotiation with abominations."
+ FP_HOSTILE_GREETING_02:0 "Our reports suggest you have developed translators to understand alien languages. We haven't."
+ FP_HOSTILE_GREETING_03:0 "The mind boggles at the rationalizations you must make for the evolution and continued existence of the [From.GetSpeciesAdj] race."
+ FP_HOSTILE_GREETING_04:0 "Our scholars have concluded that the purpose of the [From.GetSpeciesName] was to serve as an example of one of the many ways a species can be depraved. Now that we have received the message, we must set about the task to make you an example of what happens to species like yours."
+ FP_THREATENED_GREETING_01:0 "Despite your power, the forces of darkness will not be allowed to prevail. The universe itself will purge you from existence."
+ FP_WAR_GREETING_01:0 "There is no need to be afraid. The destruction of your species is part of something greater, and the will to live, which compels you to resist, will persist through lifeforms who were meant to exist."
+ FP_WAR_GREETING_02:0 "Surrender now and all of your [From.GetSpeciesSpawnNamePlural] will be mercifully slaughtered rather than used to study the effects of new weaponry on [From.GetSpeciesAdj] physiology."
+ FP_WAR_GREETING_03:0 "You must be destroyed to the last [From.GetSpeciesName]. This is our solemn duty, carried out with joy at the thought of a [From.GetSpeciesNameInsult]-free world."
+ FP_WAR_GREETING_04:0 "For each [From.GetSpeciesAdj] life that ends, for each [From.GetSpeciesSpawnName] that perishes before its birth, every star in the galaxy shines a little brighter."
+ FP_WAR_GREETING_05:0 "This war will bring about an era of peace, justice, morality, culture, sport, family life, and the obliteration of all other life forms."

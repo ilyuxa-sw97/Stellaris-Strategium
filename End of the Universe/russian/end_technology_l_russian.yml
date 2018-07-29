@@ -1,0 +1,42 @@
+﻿l_english:
+ 
+ # ###################################
+ # Categories
+ # ###################################
+
+ arcane:0 "Arcane"
+ arcane_desc:0 "The true reality of out universe."
+ 
+ # ###################################
+ # Trade Hub
+ # ###################################
+ 
+ tech_trade_hub:0 "Grade Trade Hub"
+ tech_trade_hub_desc:0 "A state of the art shopping complex filled to the brim with all sorts of trade goods."
+ tech_trade_energy:0 "Electronics Mega Store"
+ tech_trade_energy_desc:0 "A spralling mega-mart filled with all kinds of gadgets. a module for the Grade Trade Hub."
+ tech_trade_minerals:0 "Mining Guild Head-quarters"
+ tech_trade_minerals_desc:0 "A large mining guild's base of operations. a module for the Grade Trade Hub."
+ tech_trade_food:0 "Off World Farming Subsidies"
+ tech_trade_food_desc:0 "A large off world hydroponics farm filled to the brim with all sorts of food items. a module for the Grade Trade Hub."
+ tech_trade_weapons:0 "Mega-Firearms Dealership"
+ tech_trade_weapons_desc:0 "A huge arms mega-dealership. a module for the Grade Trade Hub."
+ tech_trade_army:0 "National Army Recruitment Center"
+ tech_trade_army_desc:0 "A large army Recruitment Center. a module for the Grade Trade Hub."
+ tech_trade_mech:0 "Mega-Engineering Complex"
+ tech_trade_mech_desc:0 "A large guild of mega-engineering specialists. a module for the Grade Trade Hub."
+ tech_trade_hospital:0 "Grand National Hospital"
+ tech_trade_hospital_desc:0 "A expansive Hospital filled with state of the art equipment for all conceivable medical needs. a module for the Grade Trade Hub."
+ tech_trade_eco:0 "Ecological Bio-Simulator"
+ tech_trade_eco_desc:0 "A state of the art Bio-dome used in for the study study of ecosystems. a module for the Grade Trade Hub."
+ tech_trade_lab:0 "Scientific Discoveries Facility"
+ tech_trade_lab_desc:0 "A expansive science center filled with state of the art equipment. a module for the Grade Trade Hub."
+ tech_trade_school:0 "National Community Collage"
+ tech_trade_school_desc:0 "A spralling off world campus funded by our own government. a module for the Grade Trade Hub."
+ 
+ #####################################
+ # Gateways
+ #####################################
+ gateway_tradehub:0 "§HGrand Trade Hub§!\n§EThis technology will lead to the unlocking of the §HGrand Trade Hub§! and it's modules."
+ gateway_arcane:0 "§HArcane Path§!\n§EThis technology will lead to further advancements in the field Arcania.§!"
+ 

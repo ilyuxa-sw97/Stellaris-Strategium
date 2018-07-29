@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
 assim.1.name:0 "Достигнута истинная ассимиляция!"
 assim.1.desc:0 "~ => Отключение Nanobot_Limiter\n~ ...\n~ 25%\n~ 50%\n~ 75%\n~ 100% завершено!\n~ =>Add_Assimiliation_target Planets\n~ ...\n~ Complete!\n~ ##########\n~ !WARNING!\n~ ##########\n~ Assimilated Planets will be formed from habitable planets\n~ , which must have got at least one assimilated Drone on it.\n~ Assimilated Worlds are very efficient, but also very unstable due to\n~ its energy network.\n~ If an assimilated Planet has been bombarded enough or has\n~ been fallen into enemy hands, a massive Detonation will\n~ occur.\n~ ##########\n~ !WARNING!\n~ ##########\n~ Diverting resources from Robot production into\n~ planet infrastructure...\n~ => Awaiting instructions...."

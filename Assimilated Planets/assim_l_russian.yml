@@ -1,0 +1,34 @@
+﻿l_english:
+
+assim.1.name:0 "Достигнута истинная ассимиляция!"
+assim.1.desc:0 "~ => Отключение Nanobot_Limiter\n~ ...\n~ 25%\n~ 50%\n~ 75%\n~ 100% завершено!\n~ =>Add_Assimiliation_target Planets\n~ ...\n~ Complete!\n~ ##########\n~ !WARNING!\n~ ##########\n~ Assimilated Planets will be formed from habitable planets\n~ , which must have got at least one assimilated Drone on it.\n~ Assimilated Worlds are very efficient, but also very unstable due to\n~ its energy network.\n~ If an assimilated Planet has been bombarded enough or has\n~ been fallen into enemy hands, a massive Detonation will\n~ occur.\n~ ##########\n~ !WARNING!\n~ ##########\n~ Diverting resources from Robot production into\n~ planet infrastructure...\n~ => Awaiting instructions...."
+
+ap_assimilated_worlds:0 "Истинная ассимиляция"
+ap_assimilated_worlds_desc:0 "Если мы уберём ограничитель наших наноботов, мы сможем ассимилировать целые планеты и превращать их в более продуктивные.\nПодсчёты показали нам, что приток ресурсов от нашего населения будет поднят (когда ассимиляция завершится) до 75 процентов.\nК сожалению, мы должны тратить ресурсы на содержание этих планет, поэтому создание роботов будет весьма долгим"
+
+pc_assimilated:0 "(25%) Ассимилированый мир"
+pc_assimilated_desc:0 "Эта планета достигла 25% от максимальной эффективности. Но она весьма неустойчива. Бомбардировка или захват планеты вызовет её детонацию. (Планета имеет 90% (Бомбардировка) и 100% (Захват) вероятности быть терраформированной снова.)"
+pc_assimilated2:0 "(50%) Assimilated World"
+pc_assimilated2_desc:0 "Эта планета достигла 50% от максимальной эффективности. Но она весьма неустойчива. Бомбардировка или захват планеты вызовет её детонацию. (Планета имеет 90% (Бомбардировка) и 100% (Захват) вероятности быть терраформированной снова.)"
+pc_assimilated3:0 "(75%) Assimilated World"
+pc_assimilated3_desc:0 "Эта планета достигла 75% от максимальной эффективности. Но она весьма неустойчива. Бомбардировка или захват планеты вызовет её детонацию. (Планета имеет 90% (Бомбардировка) и 100% (Захват) вероятности быть терраформированной снова.)"
+pc_assimilated4:0 "Ассимилированый мир"
+pc_assimilated4_desc:0 "Эта планета достигла пиковой эффективности. Но она весьма неустойчива. Бомбардировка или захват планеты вызовет её детонацию. (Планета имеет 90% (Бомбардировка) и 100% (Захват) вероятности быть терраформированной снова.)"
+
+trait_adapted_to_environment:0 "Приспособленность к Ассимилированым мирам"
+trait_adapted_to_environment_desc:0 "Этот дрон был адаптирован к более эффективной среде"
+pc_assimilated_habitability:0 "Ассимилированная пригодность мира"
+pc_assimilated2_habitability:0 "Ассимилированная пригодность мира"
+pc_assimilated3_habitability:0 "Ассимилированная пригодность мира"
+pc_assimilated4_habitability:0 "Ассимилированная пригодность мира"
+
+pc_assimilated_tile:0 "Ассимилированный участок"
+pc_assimilated_tile_desc:0 "Этот участок был ассимилирован для нашего населения"
+pc_assimilated2_tile:0 "Ассимилированный участок"
+pc_assimilated2_tile_desc:0 "Этот участок был ассимилирован для нашего населения"
+pc_assimilated3_tile:0 "Ассимилированный участок"
+pc_assimilated3_tile_desc:0 "Этот участок был ассимилирован для нашего населения"
+pc_assimilated4_tile:0 "Ассимилированный участок"
+pc_assimilated4_tile_desc:0 "Этот участок был ассимилирован для нашего населения"
+
+triggered_negative_opinion_of_true_assimilators:0 "Истинная ассимиляция"
